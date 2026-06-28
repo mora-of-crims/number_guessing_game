@@ -63,3 +63,4 @@ else
 fi
 # username validation and welcome logic
 # guessing loop logic
+# integer validation
