@@ -61,3 +61,4 @@ then
 else
   $PSQL "UPDATE players SET games_played=$NEW_GAMES_PLAYED WHERE username='$USERNAME'" > /dev/null
 fi
+# username validation and welcome logic
